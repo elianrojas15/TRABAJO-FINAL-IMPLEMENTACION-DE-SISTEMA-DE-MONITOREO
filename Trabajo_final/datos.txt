@@ -1,0 +1,1 @@
+vel:1805;freq:62;vol:50;t:62;tiempo:3h
